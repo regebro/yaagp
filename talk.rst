@@ -1041,6 +1041,9 @@ are welcoming and tolerant
     If it's not aimed at you, tell the person doing it.
     Stand up and say "That's not OK!"
 
+    And when you encounter people new to the community, welcome them and help them.
+    We can all be good programmers. It's not an exclusive club.
+
 ----
 
 Thanks!
