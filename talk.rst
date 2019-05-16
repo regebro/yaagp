@@ -57,6 +57,7 @@ BriteCore tech talk
     And when it was time for me to decide what to do in life, I took the easy path.
     I clearly had a knack for computers, so I got a job as "computer guy".
     I then went on to do technical support, and then sales support.
+    In 1994 I made my first website.
     In 1996 a friend gave me a job as a programmer!
     In 1999 another friend told me about Zope and Python,
     and I started making websites in Python.
@@ -773,10 +774,6 @@ learn from mistakes
     Experience with both good and bad solutions.
     And that just comes with time.
 
-    Being a super smart wizard won't make you a good programmer.
-    You also don't need to eat and breathe computers day and night.
-    You can do that, certainly, especially while you are studying.
-
 ----
 
 .. image:: images/multiman.jpg
@@ -1017,7 +1014,7 @@ ask questions
 
 ----
 
-.. image:: images/wait.gif
+.. image:: images/hands.png
     :width: 100%
 
 .. note::
